@@ -1,0 +1,8 @@
+{
+  "loot_table": "matcha:treasure/enoch",
+  "integrated_loot_tables": [
+    "minecraft:chests/abandoned_mineshaft",
+    "minecraft:chests/simple_dungeon",
+    "nova_structures:chests/simple_dungeon"
+  ]
+}

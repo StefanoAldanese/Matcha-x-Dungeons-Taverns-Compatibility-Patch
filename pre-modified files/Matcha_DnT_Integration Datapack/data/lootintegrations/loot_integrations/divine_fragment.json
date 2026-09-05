@@ -1,0 +1,7 @@
+{
+  "loot_table": "minecraft:kleis_items/divine_fragment_poly",
+  "integrated_loot_tables": [
+    "minecraft:chests/ancient_city",
+    "nova_structures:chests/ancient_city"
+  ]
+}
