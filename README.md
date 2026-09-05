@@ -14,7 +14,7 @@ To fix this, we cannot rely solely on a standard datapack. Datapacks cannot easi
 ### Installation Options
 
 #### Option 1: The Easy Way
-If you want to skip the technical setup, simply download the pre-modified files provided in this repository.
+If you want to skip the technical setup, simply download the pre-modified files provided in this repository in the Releases tab.
 1. Download the modified DnT `.jar` files and place them in your `mods` folder.
 2. Download the Matcha_DnT_Integration Datapack and place it in your world's `datapacks` folder.
 
