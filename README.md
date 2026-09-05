@@ -29,7 +29,7 @@ If you want to patch the files yourself, follow these exact steps:
 
 3. **Merge Matcha Recipes:** Go to your Matcha datapack folder (`Matcha_Flavoured_1_12_1(1)\data\main\recipe`). Place the `Merge_sub_foldes.py` script there and run it again to generate `all recipes.json`.
 
-![Uploading Screenshot 2026-09-05 094424.png…]()
+<img width="818" height="677" alt="Screenshot 2026-09-05 094424" src="https://github.com/user-attachments/assets/fb01c11f-db0b-4833-8162-30c4e9c87f8c" />
 4. **Prepare the Patcher:** Create a new folder. Move `patch_dnt_jars.py`, `dnt mergend output.json`, `all recipes.json`, and all of your original DnT `.jar` files into it.
 5. **Execute the Patch:** Open the command prompt in this folder and run `python patch_dnt_jars.py`. 
 6. **Install:** Move the newly patched `.jar` files into your `mods` folder, and add the Matcha datapack to your `datapacks` folder. You are good to go!
