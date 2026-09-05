@@ -25,7 +25,7 @@ If you want to patch the files yourself, follow these exact steps:
     
     <img width="837" height="495" alt="Screenshot 2026-09-05 093804" src="https://github.com/user-attachments/assets/c3170524-1f81-4e3a-b559-a9711f42be7a" />
 
-2. **Merge DnT Loot Tables:** Place the `Merge_sub_foldes.py` script in that folder. Click the file explorer address bar, type `cmd`, press Enter, and run `py merge_sub_foldes.py`. This generates `dnt mergend output.json`. *(Note: For multiple jars, extract them all into the same folder and run the script once).*
+2. **Merge DnT Loot Tables:** Place the `merge_sub_foldes.py` script in that folder. Click the file explorer address bar, type `cmd`, press Enter, and run `py merge_sub_foldes.py`. This generates `dnt mergend output.json`. *(Note: For multiple jars, extract them all into the same folder and run the script once).*
     
     <img width="918" height="160" alt="Screenshot 2026-09-05 095356" src="https://github.com/user-attachments/assets/a8eb05c4-8f10-4940-96cc-3cde1f8376a1" />
 
