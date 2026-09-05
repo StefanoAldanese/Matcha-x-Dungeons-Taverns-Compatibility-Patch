@@ -20,9 +20,8 @@ If you want to skip the technical setup, simply download the pre-modified files 
 
 #### Option 2: The DIY Way (Using the Scripts)
 If you want to patch the files yourself, follow these exact steps:
-
-1. **Extract DnT:** Unzip your Dungeons and Taverns `.jar` files into a single folder. Delete everything except the `data` and `loot_tables` folders.
 <img width="837" height="495" alt="Screenshot 2026-09-05 093804" src="https://github.com/user-attachments/assets/c3170524-1f81-4e3a-b559-a9711f42be7a" />
+1. **Extract DnT:** Unzip your Dungeons and Taverns `.jar` files into a single folder. Delete everything except the `data` and `loot_tables` folders. 
 
 <img width="918" height="160" alt="Screenshot 2026-09-05 095356" src="https://github.com/user-attachments/assets/a8eb05c4-8f10-4940-96cc-3cde1f8376a1" />
 2. **Merge DnT Loot Tables:** Place the `Merge_sub_foldes.py` script in that folder. Click the file explorer address bar, type `cmd`, press Enter, and run `python Merge_sub_foldes.py`. This generates `dnt mergend output.json`. *(Note: For multiple jars, extract them all into the same folder and run the script once).*
@@ -31,7 +30,9 @@ If you want to patch the files yourself, follow these exact steps:
 
 <img width="818" height="677" alt="Screenshot 2026-09-05 094424" src="https://github.com/user-attachments/assets/fb01c11f-db0b-4833-8162-30c4e9c87f8c" />
 4. **Prepare the Patcher:** Create a new folder. Move `patch_dnt_jars.py`, `dnt mergend output.json`, `all recipes.json`, and all of your original DnT `.jar` files into it.
-5. **Execute the Patch:** Open the command prompt in this folder and run `python patch_dnt_jars.py`. 
+
+5. **Execute the Patch:** Open the command prompt in this folder and run `python patch_dnt_jars.py`.
+
 6. **Install:** Move the newly patched `.jar` files into your `mods` folder, and add the Matcha datapack to your `datapacks` folder. You are good to go!
 
 ---
