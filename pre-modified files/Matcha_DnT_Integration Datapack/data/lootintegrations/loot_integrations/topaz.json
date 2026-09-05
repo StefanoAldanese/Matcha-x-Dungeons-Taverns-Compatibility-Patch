@@ -1,9 +1,0 @@
-{
-  "loot_table": "minecraft:kleis_items/topaz",
-  "integrated_loot_tables": [
-    "minecraft:chests/ancient_city",
-    "nova_structures:chests/ancient_city",
-    "nova_structures:chests/ancient_city_overhaul",
-    "nova_structures:chests/ancient_city_center"
-  ]
-}

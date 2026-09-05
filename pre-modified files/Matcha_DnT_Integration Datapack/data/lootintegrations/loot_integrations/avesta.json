@@ -1,8 +1,0 @@
-{
-  "loot_table": "matcha:treasure/avesta",
-  "integrated_loot_tables": [
-    "minecraft:chests/desert_pyramid",
-    "nova_structures:chests/desert_pyramid",
-    "nova_structures:chests/desert_temple/desert_temple_lesser"
-  ]
-}
